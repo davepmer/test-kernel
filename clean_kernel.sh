@@ -15,5 +15,5 @@ fi
 
 if [ -d ./obj/ ]
 then
-    rm -r ./obj/
+    rm -r ./obj/*
 fi
